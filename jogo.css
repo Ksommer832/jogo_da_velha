@@ -1,0 +1,37 @@
+.container{
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+    border: solid 2px;
+    background-color: cadetblue;
+    
+}
+
+.casa{
+    width: 200px;
+    height: 100%;
+    border-right: solid 2px;
+    float: left;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.linha{
+    height: 203px;
+    border-bottom: solid 2px;
+    text-align: center;
+    font-size: 150px;
+    color: black ;
+    box-sizing: border-box;
+}
+
+.botao {
+    margin: 0 auto;
+    width: 200px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 2px solid #eee;
+    border-radius: 6px;
+     box-sizing: border-box;
+
+}
